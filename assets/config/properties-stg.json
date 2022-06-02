@@ -1,0 +1,277 @@
+{
+    "ApiLoginEndpoint": "http://10.42.55.59:10039/wps/PortalEmpresarialLogin/",
+    "ApiEndpoint": "https://staging.mobile.skandia.com.co/SkCo.PortalCorporateApi/api/",
+    "ApiEndpointTermsConditions": "https://staging.mobile.skandia.com.co/SkCo.Corp.TermsConditions.API/api/",
+    "ApiEndpointContracts": "https://staging.mobile.skandia.com.co/SkCo.Corp.Contracts.API/api/",
+    "ApiEndpointSession": "https://staging.mobile.skandia.com.co/SkCo.Corp.Session.API/api/",
+    "ApiEndpointAffiliation": "https://staging.mobile.skandia.com.co/SkCo.CorporateAffiliation.Api.Public/Api/",
+    "ApiEndpointCorpComplement": "STAGING",
+    "ApiIPAddress": "https://api.ipify.org/?format=json",
+    "AnalyticsData": [
+      {
+        "TagCode": "LoginButton",
+        "EventCategory": "Bienvenida",
+        "EventAction": "Loguearse",
+        "EventLabel": "Ingresar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "ForgetPassword",
+        "EventCategory": "Bienvenida",
+        "EventAction": "Loguearse",
+        "EventLabel": "¿Olvidó su contraseña?",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "GetPassword",
+        "EventCategory": "Bienvenida",
+        "EventAction": "Obtenga su clave",
+        "EventLabel": "Iniciar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "Banner",
+        "EventCategory": "Bienvenida",
+        "EventAction": "Banner",
+        "EventLabel": "",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "Investment",
+        "EventCategory": "Home",
+        "EventAction": "Datos Inversión",
+        "EventLabel": "Total Inversión FICs",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "LeftContract",
+        "EventCategory": "Home",
+        "EventAction": "Contratos",
+        "EventLabel": "Carrusel - Izquierda",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "RightContract",
+        "EventCategory": "Home",
+        "EventAction": "Contratos",
+        "EventLabel": "Carrusel - Derecha",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "ContractDescription",
+        "EventCategory": "Home",
+        "EventAction": "Contratos",
+        "EventLabel": "Ver descripción",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "QuickAccessCard",
+        "EventCategory": "Home",
+        "EventAction": "¿Qué desea hacer?",
+        "EventLabel": "",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "ContractsDescriptionTab",
+        "EventCategory": "Contratos",
+        "EventAction": "Información Contrato",
+        "EventLabel": "",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "BalanceDetail",
+        "EventCategory": "Distribución",
+        "EventAction": "Saldo Disponible",
+        "EventLabel": "Ver detalle",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "AccordionTab0",
+        "EventCategory": "Distribución",
+        "EventAction": "Más Información",
+        "EventLabel": "Descripción del contrato",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "AccordionTab1",
+        "EventCategory": "Distribución",
+        "EventAction": "Más Información",
+        "EventLabel": "Movimientos",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "AccordionTab2",
+        "EventCategory": "Distribución",
+        "EventAction": "Más Información",
+        "EventLabel": "Perfil de riesgo y categorización",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "ContractNameInput",
+        "EventCategory": "Más información",
+        "EventAction": "Descripcion del contrato",
+        "EventLabel": "Nombre del contrato",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "UpdateContract",
+        "EventCategory": "Más información",
+        "EventAction": "Descripcion del contrato",
+        "EventLabel": "Actualizar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "GetMovements",
+        "EventCategory": "Más información",
+        "EventAction": "Movimientos",
+        "EventLabel": "Consultar de nuevo",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "DownloadVoucher",
+        "EventCategory": "Más información",
+        "EventAction": "Movimientos",
+        "EventLabel": "Descargar Comprobante",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "DownloadConstancy",
+        "EventCategory": "Más información",
+        "EventAction": "Movimientos",
+        "EventLabel": "Descargar Constancia",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "CloseBalanceDetail",
+        "EventCategory": "Saldo Disponible",
+        "EventAction": "Detalle",
+        "EventLabel": "Cerrar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "EndSession",
+        "EventCategory": "Mensaje Alerta",
+        "EventAction": "Error de sesión",
+        "EventLabel": "Aceptar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "EditUser",
+        "EventCategory": "Administración de usuario",
+        "EventAction": "Edición usuario",
+        "EventLabel": "Editar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "DeleteUser",
+        "EventCategory": "Administración de usuario",
+        "EventAction": "Edición usuario",
+        "EventLabel": "Eliminar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "ActivateUser",
+        "EventCategory": "Administración de usuario",
+        "EventAction": "Edición usuario",
+        "EventLabel": "Desactivar usuario",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "ResetPassword",
+        "EventCategory": "Administración de usuario",
+        "EventAction": "Edición usuario",
+        "EventLabel": "Resetear contrasena",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "RegisterIP",
+        "EventCategory": "Administración de usuario",
+        "EventAction": "Edición usuario",
+        "EventLabel": "Registrar IP",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "UpdateUser",
+        "EventCategory": "Administración de usuario",
+        "EventAction": "Edición usuario",
+        "EventLabel": "Actualizar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "AddUser",
+        "EventCategory": "Administración de usuario",
+        "EventAction": "Adicionar usuario",
+        "EventLabel": "Agregar Usuario",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "CollectiveInvestment",
+        "EventCategory": "Informes y documentos",
+        "EventAction": "Tipo Producto",
+        "EventLabel": "Consultar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "CollectiveInvestmentFile",
+        "EventCategory": "Informes y documentos",
+        "EventAction": "Archivo",
+        "EventLabel": "Visualizar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "TaxCertification",
+        "EventCategory": "Certificado Tributario",
+        "EventAction": "Período",
+        "EventLabel": "Generar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "TaxCertificationFile",
+        "EventCategory": "Certificado Tributario",
+        "EventAction": "Archivo",
+        "EventLabel": "Visualizar",
+        "EventValue": "",
+        "Event": "eventClick"
+      },
+      {
+        "TagCode": "MultitermInvestmentDetail",
+        "EventCategory": "Contratos",
+        "EventAction": "Inversiones Multiplazo",
+        "EventLabel": "Visualizar Detalle",
+        "EventValue": "",
+        "Event": "eventClick"
+      }
+    ]
+  }
+  
