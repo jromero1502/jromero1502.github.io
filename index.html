@@ -2,30 +2,43 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8" />
+    <title>SkandiaHome</title>
+    <base href="/" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Document</title>
-    <link href="styles.css" rel="stylesheet">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.f1cbb3d78940ef3ac889.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900" />
     <style>
-        h3 {
-            font-size: 1.5rem;
+        body {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            text-align: left;
+            background-color: #fff;
         }
     </style>
+</head>
+
+<body>
     <script>
         sessionStorage.setItem(
             'ctxData',
             window.btoa(unescape(encodeURIComponent('./assets')))
         );
-    </script>
-</head>
 
-<body>
+        window.dataLayer = window.dataLayer || [];
+    </script>
     <sk-formulario-wizard></sk-formulario-wizard>
-    <script type="text/javascript" src="sk-formulario-wizard.js"></script>
+    <script src="runtime.d42c120c0b58a8979fa0.js" defer></script>
+    <script src="polyfills-es5.a466b3c6c5230b3f3c1c.js" nomodule defer></script>
+    <script src="polyfills.6b32adc8c39fac69c64a.js" defer></script>
+    <script src="scripts.4bcd7db1a306bfe1766e.js" defer></script>
+    <script src="main.c4b5a5b7a6375a4683b7.js" defer></script>
 </body>
 
 </html>
