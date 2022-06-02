@@ -1,0 +1,34 @@
+{
+    "State": true,
+    "Message": "Consulta de cliente corporativo exitosa",
+    "Data": {
+        "Person": {
+            "PersId": "300542",
+            "IdNumber": "806002808",
+            "IdType": "N",
+            "FirstName": "EMPRESA DE PRUEBA DESDE E",
+            "LastName": "L SERVICIO EMPRESA DE NAD",
+            "NickName": null,
+            "BirthDate": "1900-01-01 00:00:00.0",
+            "Email": "mail@notiene.com.co",
+            "Gender": "N",
+            "CreateBy": null,
+            "ModifyDate": null,
+            "ModifyBy": null,
+            "ProfId": "-1",
+            "LegalRepresentative": null,
+            "MailingMethodId": "E",
+            "BirthLocationId": "-1",
+            "MaritalStatusId": "O"
+        },
+        "InvestorCorp": {
+            "Id": "12",
+            "BusinessName": "EMPRESA DE PRUEBA DESDE EL SERVICIO EMPRESA DE NADA",
+            "AuthorizeKeyShipping": "true",
+            "AdminResourcesPublic": "true",
+            "IdAccountingGroup": "2",
+            "ModifiedBy": null,
+            "ModifiedDate": null
+        }
+    }
+}
